@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sairam178/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sairam178/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sairam178/leetcode-dsa/tree/master/0217-contains-duplicate) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sairam178/leetcode-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sairam178/leetcode-dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sairam178/leetcode-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sairam178/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sairam178/leetcode-dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sairam178/leetcode-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -75,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sairam178/leetcode-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sairam178/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
