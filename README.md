@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sairam178/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/sairam178/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sairam178/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/sairam178/leetcode-dsa/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sairam178/leetcode-dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/sairam178/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sairam178/leetcode-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sairam178/leetcode-dsa/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/sairam178/leetcode-dsa/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/sairam178/leetcode-dsa/tree/master/0338-counting-bits) |
 ## Dynamic Programming
