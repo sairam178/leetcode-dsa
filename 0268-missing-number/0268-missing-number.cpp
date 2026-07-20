@@ -13,8 +13,9 @@ public:
             }
         }
        
-       int k = nums[n-1]+1;
-       return k;
+       int k = nums[n-1];
+       int p = k+1;
+       return p;
 
 
     }
