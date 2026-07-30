@@ -8,8 +8,6 @@ public:
         int lsum=0;
         int rsum=0;
         for(int i=0;i<n;i++){
-            
-            
             if(i==0){
             leftsum.push_back(lsum);
             }
@@ -18,7 +16,6 @@ public:
            
         }
         for(int i=n-1;i>=0;i--){
-         
             if(i==n-1){
                 rightsum.push_back(0);
             }
