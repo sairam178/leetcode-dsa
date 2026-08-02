@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sairam178/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sairam178/leetcode-dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sairam178/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/sairam178/leetcode-dsa/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/sairam178/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sairam178/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sairam178/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sairam178/leetcode-dsa/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sairam178/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sairam178/leetcode-dsa/tree/master/0342-power-of-four) |
+| [0877-stone-game](https://github.com/sairam178/leetcode-dsa/tree/master/0877-stone-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sairam178/leetcode-dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sairam178/leetcode-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sairam178/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/sairam178/leetcode-dsa/tree/master/0338-counting-bits) |
+| [0877-stone-game](https://github.com/sairam178/leetcode-dsa/tree/master/0877-stone-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sairam178/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sairam178/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sairam178/leetcode-dsa/tree/master/0342-power-of-four) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sairam178/leetcode-dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
