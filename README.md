@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sairam178/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sairam178/leetcode-dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sairam178/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sairam178/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0877-stone-game](https://github.com/sairam178/leetcode-dsa/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/sairam178/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sairam178/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sairam178/leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sairam178/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sairam178/leetcode-dsa/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sairam178/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sairam178/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sairam178/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sairam178/leetcode-dsa/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sairam178/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/sairam178/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sairam178/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sairam178/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sairam178/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sairam178/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sairam178/leetcode-dsa/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sairam178/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/sairam178/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sairam178/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sairam178/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sairam178/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sairam178/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sairam178/leetcode-dsa/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sairam178/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sairam178/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/sairam178/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
