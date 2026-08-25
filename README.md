@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/sairam178/leetcode-dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/sairam178/leetcode-dsa/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sairam178/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sairam178/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sairam178/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sairam178/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sairam178/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sairam178/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sairam178/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
