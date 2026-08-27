@@ -18,7 +18,7 @@ public:
         for(auto x:arr){
             vec.push_back(x);
         }
-        sort(vec.begin(),vec.end());
+        
 
         for(int i=0;i<n;i++){
             if(vec[i]==count){
