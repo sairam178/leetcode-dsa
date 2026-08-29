@@ -7,7 +7,6 @@ public:
                 vec.push_back(x);
             }
         }
-
         int n = vec.size();
         int count=1;
         set<int> arr;
@@ -18,15 +17,12 @@ public:
         for(auto x:arr){
             vec.push_back(x);
         }
-        
-
         for(int i=0;i<n;i++){
             if(vec[i]==count){
                  count++;
             }else{
                 return count;
-            }
-            
+            }   
         }
         return count++;
     }
