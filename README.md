@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sairam178/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/sairam178/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sairam178/leetcode-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/sairam178/leetcode-dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sairam178/leetcode-dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/sairam178/leetcode-dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/sairam178/leetcode-dsa/tree/master/2706-buy-two-chocolates) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/sairam178/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sairam178/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sairam178/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/sairam178/leetcode-dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2706-buy-two-chocolates](https://github.com/sairam178/leetcode-dsa/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/sairam178/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/sairam178/leetcode-dsa/tree/master/3731-find-missing-elements) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sairam178/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sairam178/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/sairam178/leetcode-dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sairam178/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sairam178/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/sairam178/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/sairam178/leetcode-dsa/tree/master/0832-flipping-an-image) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/sairam178/leetcode-dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sairam178/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Pigeonhole Principle
 |  |
