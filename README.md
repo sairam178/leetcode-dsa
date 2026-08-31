@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sairam178/leetcode-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sairam178/leetcode-dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sairam178/leetcode-dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sairam178/leetcode-dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/sairam178/leetcode-dsa/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sairam178/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sairam178/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/sairam178/leetcode-dsa/tree/master/0832-flipping-an-image) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sairam178/leetcode-dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sairam178/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Pigeonhole Principle
 |  |
