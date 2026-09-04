@@ -7,13 +7,12 @@ public:
         }
         sort(nums.begin(),nums.end());
         int max=0;
-        int min=0;
         for(int i=0;i<n-1;i++){
                int sum=abs(nums[i]-nums[i+1]);
              
-               if(sum>min){
+               if(sum>max){
                     max=sum;
-                    min=max;
+                    
                }
         }
         return max;
