@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sairam178/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/sairam178/leetcode-dsa/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/sairam178/leetcode-dsa/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sairam178/leetcode-dsa/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/sairam178/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sairam178/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
@@ -242,12 +243,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sairam178/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0832-flipping-an-image](https://github.com/sairam178/leetcode-dsa/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/sairam178/leetcode-dsa/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sairam178/leetcode-dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sairam178/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/sairam178/leetcode-dsa/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/sairam178/leetcode-dsa/tree/master/0867-transpose-matrix) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sairam178/leetcode-dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sairam178/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
