@@ -14,9 +14,9 @@ public:
                 vec.push_back(x3);
                 
             }
-            if(sum>k){
-                return vec;
-            }
+            // if(sum>k){
+            //     return vec;
+            // }
         }
         return vec;
     }
