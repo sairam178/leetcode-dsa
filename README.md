@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sairam178/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sairam178/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/sairam178/leetcode-dsa/tree/master/0709-to-lower-case) |
+| [3498-reverse-degree-of-a-string](https://github.com/sairam178/leetcode-dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sairam178/leetcode-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sairam178/leetcode-dsa/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sairam178/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/sairam178/leetcode-dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
