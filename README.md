@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sairam178/leetcode-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sairam178/leetcode-dsa/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sairam178/leetcode-dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2404-most-frequent-even-element](https://github.com/sairam178/leetcode-dsa/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sairam178/leetcode-dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sairam178/leetcode-dsa/tree/master/2574-left-and-right-sum-differences) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sairam178/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sairam178/leetcode-dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2404-most-frequent-even-element](https://github.com/sairam178/leetcode-dsa/tree/master/2404-most-frequent-even-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/sairam178/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sairam178/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sairam178/leetcode-dsa/tree/master/3731-find-missing-elements) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sairam178/leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sairam178/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sairam178/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2404-most-frequent-even-element](https://github.com/sairam178/leetcode-dsa/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sairam178/leetcode-dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Heap (Priority Queue)
 |  |
