@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sairam178/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sairam178/leetcode-dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sairam178/leetcode-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/sairam178/leetcode-dsa/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sairam178/leetcode-dsa/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sairam178/leetcode-dsa/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2965-find-missing-and-repeated-values](https://github.com/sairam178/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sairam178/leetcode-dsa/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sairam178/leetcode-dsa/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sairam178/leetcode-dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2169-count-operations-to-obtain-zero](https://github.com/sairam178/leetcode-dsa/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sairam178/leetcode-dsa/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sairam178/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
