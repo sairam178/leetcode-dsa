@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sairam178/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sairam178/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sairam178/leetcode-dsa/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/sairam178/leetcode-dsa/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/sairam178/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/sairam178/leetcode-dsa/tree/master/0709-to-lower-case) |
 | [3498-reverse-degree-of-a-string](https://github.com/sairam178/leetcode-dsa/tree/master/3498-reverse-degree-of-a-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sairam178/leetcode-dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sairam178/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sairam178/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/sairam178/leetcode-dsa/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sairam178/leetcode-dsa/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/sairam178/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sairam178/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sairam178/leetcode-dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sairam178/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/sairam178/leetcode-dsa/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sairam178/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sairam178/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sairam178/leetcode-dsa/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sairam178/leetcode-dsa/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/sairam178/leetcode-dsa/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/sairam178/leetcode-dsa/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
