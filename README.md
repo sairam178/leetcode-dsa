@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sairam178/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sairam178/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/sairam178/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/sairam178/leetcode-dsa/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sairam178/leetcode-dsa/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sairam178/leetcode-dsa/tree/master/0877-stone-game) |
@@ -376,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/sairam178/leetcode-dsa/tree/master/1122-relative-sort-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sairam178/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
