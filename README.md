@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/sairam178/leetcode-dsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/sairam178/leetcode-dsa/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/sairam178/leetcode-dsa/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/sairam178/leetcode-dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sairam178/leetcode-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sairam178/leetcode-dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sairam178/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sairam178/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/sairam178/leetcode-dsa/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/sairam178/leetcode-dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sairam178/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sairam178/leetcode-dsa/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sairam178/leetcode-dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
